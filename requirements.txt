@@ -1,0 +1,10 @@
+web3==6.15.1
+eth-account==0.10.0
+aiohttp==3.9.1
+aiohttp-proxy==0.1.2
+aiohttp-socks==0.8.4
+colorama==0.4.6
+fake-useragent==1.4.0
+pytz==2023.3
+eth-utils==2.3.0
+eth-abi==4.2.1
