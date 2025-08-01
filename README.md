@@ -1,4 +1,5 @@
-![Python](https://github.com/NotHennadii/PHAROS_FARM_BOT/blob/main/6835835683568356.PNG?raw=true))
+![Python](https://github.com/NotHennadii/PHAROS_FARM_BOT/blob/main/6835835683568356.PNG?raw=true)
+
 **Автоматизированный бот для выполнения операций в тестовой сети Pharos Network**
 ## PHAROS FUCKER BOT
 *Автоматизированный бот для выполнения операций в тестовой сети Pharos Network**
